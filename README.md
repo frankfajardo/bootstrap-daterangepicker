@@ -8,7 +8,7 @@ This date range picker component for Bootstrap is a *fork* of the [original Date
 
 This version has a few variations:
 
-- It allows the user to select either the *From* date or *To* date first. When the user selected another date, it then decides which is the *From* date, and which is the *To* date.
+- It allows the user to select either the *From* or *To* date first. When the user selects another date, it then decides which is the *From* date, and which is the *To* date.
 
 - It hides the `Apply` and `Cancel` buttons until the user selects `Custom Range`. It makes the UI cleaner IMHO.
 
@@ -53,7 +53,8 @@ This version has a few variations:
 
    The difference between the two is that the first option *auto-applies*, much like when you click a pre-defined date range. The second option can work with `autoApply` either being `true` or `false`.
    
-   You can try either of these options using the demo page.
+   You can try either of these options using the demo page. To use the demo page, you need to download this repo.
+
 
 
 ## License
