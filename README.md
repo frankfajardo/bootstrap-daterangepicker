@@ -1,6 +1,6 @@
 # Date Range Picker for Bootstrap
 
-![Main image](https://raw.githubusercontent.com/frankfajardo/bootstrap-daterangepicker/master/drp.png)
+![Main image](https://raw.githubusercontent.com/frankfajardo/bootstrap-daterangepicker/master/drp1.png)
 
 This date range picker component for Bootstrap is a *fork* of the [original Date Range Picker for Bootstrap] by [Dan Grossman].
 
@@ -31,7 +31,7 @@ This version has a few variations:
 - You can allow your users to clear the date range field via the UI, in two ways:
 
 
-   1. You can add an entry to the date range custom ranges like this: 
+   - You can add an entry to the date range custom ranges like this: 
 
    ```
    options.ranges = {
@@ -43,7 +43,7 @@ This version has a few variations:
    
    *Or*
 
-   2. You can show the new `Clear` button like this:
+   - You can show the new `Clear` button like this:
 
    ```
    options.showClearBtn = true;
