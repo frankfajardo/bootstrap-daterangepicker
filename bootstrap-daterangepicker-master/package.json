@@ -1,0 +1,20 @@
+{
+  "name": "bootstrap-daterangepicker-frankfajardo",
+  "version": "2.1.14",
+  "description": "Date range picker component for Bootstrap",
+  "main": "daterangepicker.js",
+  "style": "daterangepicker.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frankfajardo/bootstrap-daterangepicker.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/frankfajardo/bootstrap-daterangepicker",
+  "dependencies": {
+    "jquery": "^1.10",
+    "moment": "^2.9.0"
+  }
+}
