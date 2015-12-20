@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'dangrossman:bootstrap-daterangepicker',
+  name: 'frankfajardo:bootstrap-daterangepicker',
   version: '2.1.14',
   summary: 'Date range picker component for Bootstrap',
-  git: 'https://github.com/dangrossman/bootstrap-daterangepicker',
+  git: 'https://github.com/frankfajardo/bootstrap-daterangepicker',
   documentation: 'README.md'
 });
 
