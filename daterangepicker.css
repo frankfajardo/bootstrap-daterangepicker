@@ -303,19 +303,27 @@
 
 .daterangepicker .ranges li {
   font-size: 13px;
-  background: #f5f5f5;
-  border: 1px solid #f5f5f5;
-  color: #08c;
+  border: 1px solid #eee;
   padding: 3px 12px;
-  margin-bottom: 8px;
-  border-radius: 5px;
+  margin-bottom: 4px;
+  border-radius: 3px;
+  text-shadow: white 1px 1px 1px;
+  background-color: #efefef;
+  list-style: none;
   cursor: pointer;
 }
 
-.daterangepicker .ranges li.active, .daterangepicker .ranges li:hover {
+.daterangepicker .ranges li.active {
   background: #08c;
   border: 1px solid #08c;
   color: #fff;
+  text-shadow: #004a6d 1px 1px 0px;
+}
+.daterangepicker .ranges li:hover { 
+  background: #d4dffc;
+  border: 1px solid #d4dffc;
+  text-shadow: none;
+  color: #000;
 }
 
 /*  Larger Screen Styling */
@@ -396,6 +404,10 @@
 
 .daterangepicker input[type='text'] {
   box-sizing: border-box;
+}
+
+.daterangepicker .ranges li {
+    list-style: none;
 }
 
 .hidden {

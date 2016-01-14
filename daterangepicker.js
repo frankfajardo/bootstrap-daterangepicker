@@ -633,10 +633,7 @@
             if (this.customRange) {
                 this.chosenLabel = this.container.find('.ranges li:last').addClass('active').html();
                 this.showCalendars();
-            } else {
-                this.hideCalendars(); // Hide calendars is currently showing.
-            }
-
+            } 
         },
 
         renderCalendar: function(side) {
