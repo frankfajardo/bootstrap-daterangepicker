@@ -1,8 +1,8 @@
-# Date Range Picker for Bootstrap
+# Date Range Picker (jQuery Plugin)
 
 ![Main image](https://raw.githubusercontent.com/frankfajardo/bootstrap-daterangepicker/master/drp1.png)
 
-This date range picker component for Bootstrap is a *fork* of the [original Date Range Picker for Bootstrap] by [Dan Grossman].
+This jQuery date range picker plugin is a *fork* of the [original Date Range Picker for Bootstrap] by [Dan Grossman]. This version however does not require Bootstrap. Only the demo page uses it for presentation of the options. This plugin, like the [original Date Range Picker for Bootstrap], uses [Moment.js] v.2.10.3, which is included in this repository.
 
 ## Variations
 
@@ -70,3 +70,4 @@ Please also refer to the license for the [original Date Range Picker for Bootstr
 
 [original Date Range Picker for Bootstrap]:(http://www.daterangepicker.com/)
 [Dan Grossman]:(http://www.dangrossman.info/)
+[Moment.js]:(http://momentjs.com)
